@@ -170,19 +170,19 @@ This guide provides a comprehensive list of resources for learning the Go progra
 ---
 
 ### Github Resources
--- **[Awedome GO](https://github.com/avelino/awesome-go) - You can call it the encyclopedia of Go programming language. Just bookmark it to come back to whenever you need something in Go. It is a massive curated list of awesome Go frameworks, libraries and software
+- **[Awedome GO](https://github.com/avelino/awesome-go)** - You can call it the encyclopedia of Go programming language. Just bookmark it to come back to whenever you need something in Go. It is a massive curated list of awesome Go frameworks, libraries and software
 
--- **[Standard Go Project Layout](https://github.com/golang-standards/project-layout) - This repo contains a basic layout for Go application projects. Although it's not an official standard defined by the core Go dev team, it is a set of common historical and emerging project layout patterns in the Go ecosystem.
+- **[Standard Go Project Layout](https://github.com/golang-standards/project-layout)** - This repo contains a basic layout for Go application projects. Although it's not an official standard defined by the core Go dev team, it is a set of common historical and emerging project layout patterns in the Go ecosystem.
 
--- **[Go kit](https://github.com/go-kit/kit) - Go kit is a programming toolkit for building microservices in Go. Go kit solves common problems in distributed systems and application architecture so you can focus on delivering business value.
+- **[Go kit](https://github.com/go-kit/kit)** - Go kit is a programming toolkit for building microservices in Go. Go kit solves common problems in distributed systems and application architecture so you can focus on delivering business value.
 
--- **[Go Design patterns](https://github.com/tmrts/go-patterns) - This repo contains a curated collection of idiomatic design & application patterns for Go language. You can find patterns like: creational patterns, structural patterns, behavioral patterns, concurrency patterns, messaging patterns.
+- **[Go Design patterns](https://github.com/tmrts/go-patterns)** - This repo contains a curated collection of idiomatic design & application patterns for Go language. You can find patterns like: creational patterns, structural patterns, behavioral patterns, concurrency patterns, messaging patterns.
 
--- **[Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests) - Go is a good language for learning test-driven development as Go's standard library provides a built-in testing package. This repo has a list of Go fundamentals with examples of test-driven code implementations.
+- **[Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)** - Go is a good language for learning test-driven development as Go's standard library provides a built-in testing package. This repo has a list of Go fundamentals with examples of test-driven code implementations.
 
--- **[The Ultimate Go Study Guide](https://github.com/ardanlabs/gotraining) - The Ultimate Go Study Guide is a collection of notes for students taking the Ultimate Go class. It is compiled of sample programs with line-by-line comments to help students follow the code better. You will find the link to the repo's content in readme.md file.
+- **[The Ultimate Go Study Guide](https://github.com/ardanlabs/gotraining)** - The Ultimate Go Study Guide is a collection of notes for students taking the Ultimate Go class. It is compiled of sample programs with line-by-line comments to help students follow the code better. You will find the link to the repo's content in readme.md file.
 
--- **[1000+ Hand-crafted Go examples, exercises and quizzes](https://github.com/inancgumus/learngo)
+- **[1000+ Hand-crafted Go examples, exercises and quizzes](https://github.com/inancgumus/learngo)**
 
 ### Best Practices
 
